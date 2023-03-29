@@ -1,5 +1,6 @@
 # Creative Juice
-## (contributor's copy)
+## Dan McKay's contributor's copy
+### [Original Repo](https://github.com/KateMcRo/creativeJuice)
 
 ## Description
 
@@ -31,7 +32,7 @@ Click on the thumbtack icon to save or remove an option to favorites dropdown. T
 
 ![Screenshot of Inputs and Results Page](assets/images/CJ%20Submit.png)
 
-[Live Deployed Creative Juice](https://katemcro.github.io/creativeJuice/)
+## [Live Deployed Creative Juice](https://katemcro.github.io/creativeJuice/)
 
 ## Credits
 
