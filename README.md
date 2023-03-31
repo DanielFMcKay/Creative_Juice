@@ -33,6 +33,7 @@ Click on the thumbtack icon to save or remove an option to favorites dropdown. T
 ![Screenshot of Inputs and Results Page](assets/images/CJ%20Submit.png)
 
 ## [Live Deployed Creative Juice](https://katemcro.github.io/creativeJuice/)
+### [Dan McKay's Mirror](https://DanielFMcKay.github.io/creativeJuice/)
 
 ## Credits
 
