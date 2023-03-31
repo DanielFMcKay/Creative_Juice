@@ -34,8 +34,6 @@ Click on the thumbtack icon to save or remove an option to favorites dropdown. T
 
 ## [Live Deployed Creative Juice](https://katemcro.github.io/creativeJuice/)
 
-### [Dan McKay's Mirror Site](https://DanielFMcKay.github.io/creativeJuice/)
-
 ## Credits
 
 - [John Elmore](https://github.com/Letmego1st) 
