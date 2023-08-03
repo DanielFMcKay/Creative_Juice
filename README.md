@@ -1,5 +1,5 @@
 # Creative Juice
-## Dan McKay's contributor's copy
+## Dan McKay's contributor's mirror copy
 ### [Original Repo](https://github.com/KateMcRo/creativeJuice)
 
 ## Description
